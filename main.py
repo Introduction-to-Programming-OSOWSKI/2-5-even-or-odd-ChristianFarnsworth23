@@ -1,5 +1,5 @@
 def isEven(n):
-    if n % 10 == 0:
+    if n % 2 == 0:
         return True
     else:
         return False
